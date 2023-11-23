@@ -1,0 +1,7 @@
+# Capstone-Project
+## Project background and context
+The commercial space age is here, companies are making space travel affordable for everyone, examples of companies involved with space travel in one way or the other are: Virgin Galactic, Rocket Lab, Blue Origin, and Space X. Perhaps the most successful is SpaceX. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upwards of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. There are two stages involved in a rocket launch, the first stage and the second stage. The first stage stage is quite large and expensive. Unlike other rocket providers, SpaceX's Falcon 9 Can recover the first stage.
+
+## Problems I want to find answers
+In this project, I am taking on the role of a data scientist working for a new rocket company. Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Mask. Your job is to determine the price of each launch. I will do this by gathering information about Space X and creating dashboards for your team. I will also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
+
